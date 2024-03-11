@@ -1,2 +1,2 @@
 # dog
-Digital objective guard
+Digital Objective Guard
